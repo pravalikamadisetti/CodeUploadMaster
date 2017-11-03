@@ -23,4 +23,5 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+	//Modified in the Release Branch after the Tag1.2
 EndGlobal
